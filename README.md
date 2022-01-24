@@ -19,3 +19,4 @@ My hobbies: Dota 2, anime and manga
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 
 ### Connect with me
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/startender1)
