@@ -7,5 +7,7 @@ My hobbies: Dota 2, anime and manga
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=CSS)
 
 Connect with me
