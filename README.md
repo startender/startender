@@ -16,5 +16,8 @@ My hobbies: Dota 2, anime and manga
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Express)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=SQL)
+![Rest](https://img.shields.io/badge/-Rest-black?style=for-the-badge&logo=Rest)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux)
 
 ### Connect with me
