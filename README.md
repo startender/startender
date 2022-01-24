@@ -21,3 +21,6 @@ My hobbies: Dota 2, anime and manga
 
 ### Connect with me
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/startender1)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=startender)](https://github.com/anuraghazra/github-readme-stats&show_icons = true)
