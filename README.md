@@ -9,5 +9,10 @@ My hobbies: Dota 2, anime and manga
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
-
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
 Connect with me
