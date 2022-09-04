@@ -43,11 +43,6 @@
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Startender's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=startender&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=startender&show_icons=true&locale=en&layout=compact" alt="startender" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=startender&show_icons=true&locale=en" alt="startender" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=startender&" alt="startender" /></p> 
  
 <br/>
 <br/>
