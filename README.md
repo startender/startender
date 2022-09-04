@@ -6,7 +6,9 @@
 
 - I’m currently working on **Dashboard project**
 
-- I’m currently learning **Computer Science in University**
+- I’m currently studying **Computer Science in University**
+
+- My hobbies are competitive games (Valorant, Dota), anime and manga
 
 - How to reach me **startender213@gmail.com**
 
