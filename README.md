@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack developer</h3>
 
 
+## About Me
 
 - I’m currently working on **Dashboard project**
 
