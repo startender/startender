@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">ML Engineer</h3>
 
 
 ## About Me
@@ -8,7 +8,7 @@
 
 - I’m currently studying **Computer Science in University**
 
-- My hobbies are competitive games (Valorant, Dota), anime and manga
+- My hobbies are competitive games (Chess, Valorant, Dota), anime and manga
 
 - How to reach me **startender213@gmail.com**
 
