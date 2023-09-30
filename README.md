@@ -5,6 +5,8 @@
 ## About Me
 
 - I’m currently studying **Computer Science in University**
+- 
+- My professional interests - Data Science & Machine Learning, also i love Frontend development
 
 - My hobbies are competitive games (Chess, Valorant, Dota), anime and manga
 
