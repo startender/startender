@@ -4,11 +4,11 @@
 
 ## About Me
 
-- I’m currently working on **Dashboard project**
-
 - I’m currently studying **Computer Science in University**
 
 - My hobbies are competitive games (Chess, Valorant, Dota), anime and manga
+
+- I love participating in **Machine Learning competitions**
 
 - How to reach me **startender213@gmail.com**
 
