@@ -3,12 +3,10 @@
 
 
 ## About Me
-
-- I’m currently studying **Computer Science in University**
   
-- My professional interests - Golang, also i love Frontend development
+- My professional interests - Golang, also I love Frontend development
 
-- My hobbies are competitive games (Chess, Valorant, Dota), manga and sport
+- My hobbies are competitive games (Chess, Valorant, Dota), manga and sport(Gym)
 
 - How to reach me **startender213@gmail.com**
 
